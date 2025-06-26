@@ -4,4 +4,4 @@ numpy
 scikit-learn
 scipy
 pandas
-git 
+matplotlib  
